@@ -9,7 +9,7 @@ files:
 		service_account.json, google account stuff
 
 
-API LIVE AT HTTP://www.moignard.xyz:6969/api
+API LIVE AT http://104.155.196.152:6969/api
 
 use x-www-formurlencoded parameters.
 
@@ -42,7 +42,7 @@ Methods
 				lname: string
 
 				nname: string
-				
+
 		.DELETE: Delete a user
 
 
